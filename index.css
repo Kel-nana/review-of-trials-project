@@ -1,9 +1,8 @@
 .container {
-    margin: 20px 20% 40px 20%;
-  }
-  
-  .image {
-    max-width: 70%;
-    height: 100%;
-  }
-  
+  margin: 20px 20% 40px 20%;
+}
+
+.image {
+  max-width: 70%;
+  height: 100%;
+}
